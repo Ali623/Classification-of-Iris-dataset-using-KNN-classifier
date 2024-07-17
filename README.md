@@ -1,4 +1,4 @@
-# Iris Dataset Classification with K-Nearest Neighbors (KNN) Model
+# Iris Dataset Classification with K-Nearest Neighbors Model
 
 Welcome to the "Iris Dataset Classification with K-Nearest Neighbors (KNN) Model" repository! This project focuses on using the K-Nearest Neighbors algorithm to classify the famous Iris dataset, providing insights into its classification performance.
 
